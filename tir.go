@@ -17,7 +17,7 @@ const Version string = "0.2.1"
 const usageHead string = `
 Usage:
 
-  tmg [options] <image>
+  tir [options] <image>
 
 Description:
 
